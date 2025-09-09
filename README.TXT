@@ -39,6 +39,18 @@ Note: This project does not implement adequate handling of errors.
 
 7. ; if telling to do smt 
 
-8. 
+8. when its over the limit the value dosent change 
+
+9. i got the right answer
+
+10. Error: non-static method getValue() cannot be referenced from a static context
+
+11. Error: '.class' expected , no int 
+
+12. i understand 
+
+13. the max number 
+
+14. 
 
 
