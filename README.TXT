@@ -31,8 +31,14 @@ Note: This project does not implement adequate handling of errors.
 
 3. every time we change a parameter , value, or add and delete a object and  etc . it will show the changed values in the object diagram 
 
-4. privite instructer tutor
+4. private instructer tutor;
 
-5.  
+5.  it doesnt reach the limit 
+
+6. every time the min resets we add 1 to the hours 
+
+7. ; if telling to do smt 
+
+8. 
 
 
