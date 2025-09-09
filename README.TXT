@@ -51,6 +51,24 @@ Note: This project does not implement adequate handling of errors.
 
 13. the max number 
 
-14. 
+14. it means or 
+
+15.2,5 are true 
+
+ 16. a && b
+ 
+ 17. a || b 
+ 
+ 18. no its the number in ""
+ 
+ 19. no
+ 
+ 20. Error: illegal character: '\u201c'. i thought i eill say 11 cat and etc but i said error 
+ 
+ 21. because its in the constructer 
+ 
+ 23. 60 times 
+ 
+ 24. 
 
 
