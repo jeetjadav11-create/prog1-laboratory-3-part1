@@ -69,6 +69,19 @@ Note: This project does not implement adequate handling of errors.
  
  23. 60 times 
  
- 24. 
+ 24.  NumberDisplay digit;
+      digit = new  NumberDisplay(10)
+      
+ 25.  Rectangl window;
+      window = new rectangale(10=20)
+      
+ 26.  it set the time that you tell it to bu using the set time command 
+ 
+ 27. because there is no need necause the 2nd cinstructer asssins the values direcly
+ 
+ 
+ 28. a
+ 
+ 29. 
 
 
